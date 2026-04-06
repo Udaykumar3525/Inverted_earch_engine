@@ -143,18 +143,18 @@ else:
 
 
 # 🔧 Important Functions  
-'''
-Function	              Purpose
+```
+   Function	                  Purpose
 validate_files()	      Check file validity
-insert_last()	      Insert file into list
-check_duplicates()	  Avoid duplicate files
-get_index()	          Generate hash index
-create_database()	  Build inverted index
-display_database()	  Show database
-search_database()	  Search word
-save_database()	      Save to file
-update_database()	  Reload database
-'''
+insert_last()	          Insert file into list
+check_duplicates()	      Avoid duplicate files
+get_index()	              Generate hash index
+create_database()	      Build inverted index
+display_database()	      Show database
+search_database()	      Search word
+save_database()	          Save to file
+update_database()	      Reload database fro saved file
+```
 
 # 🧠 Applications  
 - Search Engines (Google, Bing)  

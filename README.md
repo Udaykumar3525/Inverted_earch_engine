@@ -72,7 +72,7 @@ Inverted_Search
 
 
 # 📄 File Description  
-'''
+```
 File	          Description
 main.c	          Entry point, handles menu and user interaction
 inverted.h	      Structure definitions, macros, function declarations
@@ -83,7 +83,7 @@ search.c	      Searches for a word
 save.c	          Saves database to file
 update.c	      Loads database from saved file
 README.md	      Project documentation
-'''
+```
 
 # 🧠 Data Structures Used  
 1️⃣ File Linked List  

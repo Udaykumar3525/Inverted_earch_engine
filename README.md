@@ -1,9 +1,9 @@
-# Inverted Search Engine
-'''
+# Inverted Search Engine  
+```
 **Name:** Udaykumar Upputuri  
 **Description:** Developed an Inverted index Search system in C language  
 **Mail:** udayupputuri3525@gmail.com  
-'''
+```
 
 # 📌 Project Overview  
 The Inverted Search project is a command-line based application written in C that creates an inverted index from multiple text files.  
@@ -12,7 +12,7 @@ Instead of scanning entire files during search, the program builds a structured 
 operations efficient.  
 
 # 📖 What is Inverted Search  
-'''
+```
 Inverted Search (Inverted Index) is a data structure used to store:  
 Word -> File(s) -> Count  
 Example:  
@@ -34,7 +34,7 @@ File Count: 1
 
 same like for remaining words - upputuri, done, bachelors, and,  
 This allows fast lookup of words across multiple files.  
-'''
+```
 
 # 💡 Why Inverted Index  
 Without an inverted index:  
@@ -57,7 +57,7 @@ Organized data structure
 - Case-insensitive indexing  
 
 # 📂 Project Structure  
-'''
+```
 Inverted_Search
 ├── main.c
 ├── inverted.h
@@ -68,7 +68,7 @@ Inverted_Search
 ├── save.c
 ├── update.c
 └── README.md
-'''
+```
 
 
 # 📄 File Description  

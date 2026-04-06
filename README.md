@@ -1,8 +1,8 @@
 # Inverted Search Engine  
 ```
-**Name:** Udaykumar Upputuri  
-**Description:** Developed an Inverted index Search system in C language  
-**Mail:** udayupputuri3525@gmail.com  
+Name: Udaykumar Upputuri  
+Description: Developed an Inverted index Search system in C language  
+Mail: udayupputuri3525@gmail.com  
 ```
 
 # 📌 Project Overview  
